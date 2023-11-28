@@ -1,0 +1,6 @@
+1. In the bar graph Population max is greater than sample max and also Population mean is greater than sample mean.
+
+2. In the BMI 98th percentile comparision Population 98th percentile is less than sample 98th percentile.
+
+3. While comparing population mean and bootstrap mean, Population mean is greater than bootstrap mean.
+   And for standard deviation, there is only slight difference between population standard deviation and bootstrap.
